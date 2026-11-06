@@ -1,0 +1,1 @@
+# No third-party packages are required for this Task 1 starter project.
